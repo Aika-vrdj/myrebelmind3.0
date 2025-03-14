@@ -17,6 +17,7 @@ export const metadata: Metadata = {
     // Optional for Android devices
     { rel: "icon", href: "/android-chrome-192x192.png", sizes: "192x192" },
   ],
+};
 
 export default function RootLayout({
   children,
